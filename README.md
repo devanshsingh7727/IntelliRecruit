@@ -26,14 +26,14 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the project repository:
 
    ````bash
-   git clone https://github.com/yourusername/your-project.git```
+   git clone https://github.com/devanshsingh7727/IntelliRecruit.git```
 
    ````
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project
+   cd IntelliRecruit
 
    ```
 
@@ -41,10 +41,6 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    npm install
    ```
-
-### Usage
-
-Explain how to use the project, provide code examples, and useful information for users.
 
 ### Configuration
 
